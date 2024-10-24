@@ -1,0 +1,504 @@
+[
+  {
+    "ContainingType": "HbSystem.WebApi.Controllers.DepartmentController",
+    "Method": "DepartmentList",
+    "RelativePath": "api/Department",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HbSystem.WebApi.Controllers.DepartmentController",
+    "Method": "CreateDepartment",
+    "RelativePath": "api/Department",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "HbSystem.Application.Features.Mediator.Commands.DepartmentCommands.CreateDepartmentCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HbSystem.WebApi.Controllers.DepartmentController",
+    "Method": "RemoveDepartment",
+    "RelativePath": "api/Department",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "HbSystem.Application.Features.Mediator.Commands.DepartmentCommands.RemoveDepartmentCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HbSystem.WebApi.Controllers.DepartmentController",
+    "Method": "UpdateDepartment",
+    "RelativePath": "api/Department",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "HbSystem.Application.Features.Mediator.Commands.DepartmentCommands.UpdateDepartmentCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HbSystem.WebApi.Controllers.DepartmentController",
+    "Method": "GetDepartment",
+    "RelativePath": "api/Department/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HbSystem.WebApi.Controllers.DiagnosisController",
+    "Method": "DiagnosisList",
+    "RelativePath": "api/Diagnosis",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HbSystem.WebApi.Controllers.DiagnosisController",
+    "Method": "CreateDiagnosis",
+    "RelativePath": "api/Diagnosis",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "HbSystem.Application.Features.Mediator.Commands.DiagnosisCommands.CreateDiagnosisCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HbSystem.WebApi.Controllers.DiagnosisController",
+    "Method": "RemoveDiagnosis",
+    "RelativePath": "api/Diagnosis",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "HbSystem.Application.Features.Mediator.Commands.DiagnosisCommands.RemoveDiagnosisCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HbSystem.WebApi.Controllers.DiagnosisController",
+    "Method": "UpdateDiagnosis",
+    "RelativePath": "api/Diagnosis",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "HbSystem.Application.Features.Mediator.Commands.DiagnosisCommands.UpdateDiagnosisCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HbSystem.WebApi.Controllers.DiagnosisController",
+    "Method": "GetDiagnosis",
+    "RelativePath": "api/Diagnosis/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HbSystem.WebApi.Controllers.DiagnosisController",
+    "Method": "GetDiagnosisDeparmentById",
+    "RelativePath": "api/Diagnosis/departmentId/{departmentId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "departmentId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HbSystem.WebApi.Controllers.DoctorsController",
+    "Method": "DoctorList",
+    "RelativePath": "api/Doctors",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HbSystem.WebApi.Controllers.DoctorsController",
+    "Method": "CreateDoctor",
+    "RelativePath": "api/Doctors",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "HbSystem.Application.Features.Mediator.Commands.DoctorCommands.CreateDoctorCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HbSystem.WebApi.Controllers.DoctorsController",
+    "Method": "RemoveDoctor",
+    "RelativePath": "api/Doctors",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HbSystem.WebApi.Controllers.DoctorsController",
+    "Method": "UpdateDoctor",
+    "RelativePath": "api/Doctors",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "HbSystem.Application.Features.Mediator.Commands.DoctorCommands.UpdateDoctorCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HbSystem.WebApi.Controllers.DoctorsController",
+    "Method": "GetDoctor",
+    "RelativePath": "api/Doctors/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HbSystem.WebApi.Controllers.DoctorsController",
+    "Method": "GetDoctorDepartmentById",
+    "RelativePath": "api/Doctors/departmentId/{departmentId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "departmentId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HbSystem.WebApi.Controllers.PatientDiagnosisController",
+    "Method": "PatientDiagnosisList",
+    "RelativePath": "api/PatientDiagnosis",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HbSystem.WebApi.Controllers.PatientDiagnosisController",
+    "Method": "CreatePatientDiagnosis",
+    "RelativePath": "api/PatientDiagnosis",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "HbSystem.Application.Features.Mediator.Commands.PatientDiagnosisCommands.CreatePatientDiagnosisCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HbSystem.WebApi.Controllers.PatientDiagnosisController",
+    "Method": "RemovePatientDiagnosis",
+    "RelativePath": "api/PatientDiagnosis",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "HbSystem.Application.Features.Mediator.Commands.PatientDiagnosisCommands.RemovePatientDiagnosisCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HbSystem.WebApi.Controllers.PatientDiagnosisController",
+    "Method": "UpdatePatientDiagnosis",
+    "RelativePath": "api/PatientDiagnosis",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "HbSystem.Application.Features.Mediator.Commands.PatientDiagnosisCommands.UpdatePatientDiagnosisCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HbSystem.WebApi.Controllers.PatientDiagnosisController",
+    "Method": "GetPatientDiagnosis",
+    "RelativePath": "api/PatientDiagnosis/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HbSystem.WebApi.Controllers.PatientHistoryController",
+    "Method": "GetPatientHistory",
+    "RelativePath": "api/PatientHistory/{patientId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "patientId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[HbSystem.Application.Features.Mediator.Results.PatientHistoryResults.GetPatientHistoryQueryResult, HbSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "HbSystem.WebApi.Controllers.PatientsController",
+    "Method": "PatientList",
+    "RelativePath": "api/Patients",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HbSystem.WebApi.Controllers.PatientsController",
+    "Method": "CreatePatient",
+    "RelativePath": "api/Patients",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "HbSystem.Application.Features.Mediator.Commands.PatientCommands.CreatePatientCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HbSystem.WebApi.Controllers.PatientsController",
+    "Method": "RemovePatient",
+    "RelativePath": "api/Patients",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HbSystem.WebApi.Controllers.PatientsController",
+    "Method": "UpdatePatient",
+    "RelativePath": "api/Patients",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "HbSystem.Application.Features.Mediator.Commands.PatientCommands.UpdatePatientCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HbSystem.WebApi.Controllers.PatientsController",
+    "Method": "GetPatient",
+    "RelativePath": "api/Patients/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HbSystem.WebApi.Controllers.PatientsController",
+    "Method": "GetPatientByTc",
+    "RelativePath": "api/Patients/tc/{tcNumber}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tcNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HbSystem.WebApi.Controllers.ReferralController",
+    "Method": "ReferralList",
+    "RelativePath": "api/Referral",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HbSystem.WebApi.Controllers.ReferralController",
+    "Method": "CreateReferral",
+    "RelativePath": "api/Referral",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "HbSystem.Application.Features.Mediator.Commands.ReferralCommands.CreateReferralCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HbSystem.WebApi.Controllers.ReferralController",
+    "Method": "GetReferral",
+    "RelativePath": "api/Referral/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HbSystem.WebApi.Controllers.ReferralController",
+    "Method": "GetReferralByTcNumber",
+    "RelativePath": "api/Referral/tc/{tcNumber}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tcNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

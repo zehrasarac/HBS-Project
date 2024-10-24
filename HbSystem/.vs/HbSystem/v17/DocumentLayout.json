@@ -1,0 +1,598 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E5B71DF-75FF-47C1-BFE9-D660044A0633}|Presentation\\HbSystem.WebApi\\HbSystem.WebApi.csproj|c:\\users\\zehra\\projects\\repos\\hbsystemproject\\hbsystem\\presentation\\hbsystem.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E5B71DF-75FF-47C1-BFE9-D660044A0633}|Presentation\\HbSystem.WebApi\\HbSystem.WebApi.csproj|solutionrelative:presentation\\hbsystem.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E5B71DF-75FF-47C1-BFE9-D660044A0633}|Presentation\\HbSystem.WebApi\\HbSystem.WebApi.csproj|c:\\users\\zehra\\projects\\repos\\hbsystemproject\\hbsystem\\presentation\\hbsystem.webapi\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E5B71DF-75FF-47C1-BFE9-D660044A0633}|Presentation\\HbSystem.WebApi\\HbSystem.WebApi.csproj|solutionrelative:presentation\\hbsystem.webapi\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150E9570-48F7-4135-9654-84AD0A2F3CD3}|Core\\HbSystem.Application\\HbSystem.Application.csproj|c:\\users\\zehra\\projects\\repos\\hbsystemproject\\hbsystem\\core\\hbsystem.application\\features\\mediator\\handler\\patienthistoryhandlers\\getpatienthistoryqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{150E9570-48F7-4135-9654-84AD0A2F3CD3}|Core\\HbSystem.Application\\HbSystem.Application.csproj|solutionrelative:core\\hbsystem.application\\features\\mediator\\handler\\patienthistoryhandlers\\getpatienthistoryqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150E9570-48F7-4135-9654-84AD0A2F3CD3}|Core\\HbSystem.Application\\HbSystem.Application.csproj|c:\\users\\zehra\\projects\\repos\\hbsystemproject\\hbsystem\\core\\hbsystem.application\\features\\mediator\\results\\patientresults\\getpatientbyidqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{150E9570-48F7-4135-9654-84AD0A2F3CD3}|Core\\HbSystem.Application\\HbSystem.Application.csproj|solutionrelative:core\\hbsystem.application\\features\\mediator\\results\\patientresults\\getpatientbyidqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150E9570-48F7-4135-9654-84AD0A2F3CD3}|Core\\HbSystem.Application\\HbSystem.Application.csproj|c:\\users\\zehra\\projects\\repos\\hbsystemproject\\hbsystem\\core\\hbsystem.application\\features\\mediator\\results\\patientresults\\getpatientbytcqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{150E9570-48F7-4135-9654-84AD0A2F3CD3}|Core\\HbSystem.Application\\HbSystem.Application.csproj|solutionrelative:core\\hbsystem.application\\features\\mediator\\results\\patientresults\\getpatientbytcqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA9B271-0E99-4531-BBE2-A3AAF9FF12D4}|HbSystem.Domain\\HbSystem.Domain.csproj|c:\\users\\zehra\\projects\\repos\\hbsystemproject\\hbsystem\\hbsystem.domain\\entities\\patientdiagnosis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA9B271-0E99-4531-BBE2-A3AAF9FF12D4}|HbSystem.Domain\\HbSystem.Domain.csproj|solutionrelative:hbsystem.domain\\entities\\patientdiagnosis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA9B271-0E99-4531-BBE2-A3AAF9FF12D4}|HbSystem.Domain\\HbSystem.Domain.csproj|c:\\users\\zehra\\projects\\repos\\hbsystemproject\\hbsystem\\hbsystem.domain\\entities\\referral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA9B271-0E99-4531-BBE2-A3AAF9FF12D4}|HbSystem.Domain\\HbSystem.Domain.csproj|solutionrelative:hbsystem.domain\\entities\\referral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA9B271-0E99-4531-BBE2-A3AAF9FF12D4}|HbSystem.Domain\\HbSystem.Domain.csproj|c:\\users\\zehra\\projects\\repos\\hbsystemproject\\hbsystem\\hbsystem.domain\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA9B271-0E99-4531-BBE2-A3AAF9FF12D4}|HbSystem.Domain\\HbSystem.Domain.csproj|solutionrelative:hbsystem.domain\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA9B271-0E99-4531-BBE2-A3AAF9FF12D4}|HbSystem.Domain\\HbSystem.Domain.csproj|c:\\users\\zehra\\projects\\repos\\hbsystemproject\\hbsystem\\hbsystem.domain\\entities\\diagnosis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA9B271-0E99-4531-BBE2-A3AAF9FF12D4}|HbSystem.Domain\\HbSystem.Domain.csproj|solutionrelative:hbsystem.domain\\entities\\diagnosis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA9B271-0E99-4531-BBE2-A3AAF9FF12D4}|HbSystem.Domain\\HbSystem.Domain.csproj|c:\\users\\zehra\\projects\\repos\\hbsystemproject\\hbsystem\\hbsystem.domain\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA9B271-0E99-4531-BBE2-A3AAF9FF12D4}|HbSystem.Domain\\HbSystem.Domain.csproj|solutionrelative:hbsystem.domain\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150E9570-48F7-4135-9654-84AD0A2F3CD3}|Core\\HbSystem.Application\\HbSystem.Application.csproj|c:\\users\\zehra\\projects\\repos\\hbsystemproject\\hbsystem\\core\\hbsystem.application\\features\\mediator\\queries\\patientdiagnosisqueries\\getpatientdiagnosisquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{150E9570-48F7-4135-9654-84AD0A2F3CD3}|Core\\HbSystem.Application\\HbSystem.Application.csproj|solutionrelative:core\\hbsystem.application\\features\\mediator\\queries\\patientdiagnosisqueries\\getpatientdiagnosisquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150E9570-48F7-4135-9654-84AD0A2F3CD3}|Core\\HbSystem.Application\\HbSystem.Application.csproj|c:\\users\\zehra\\projects\\repos\\hbsystemproject\\hbsystem\\core\\hbsystem.application\\features\\mediator\\queries\\patientdiagnosisqueries\\getpatientdiagnosisbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{150E9570-48F7-4135-9654-84AD0A2F3CD3}|Core\\HbSystem.Application\\HbSystem.Application.csproj|solutionrelative:core\\hbsystem.application\\features\\mediator\\queries\\patientdiagnosisqueries\\getpatientdiagnosisbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44931CB-FB61-468F-B8DA-08967A4F95E5}|Infrastructure\\HbSystem.Persistance\\HbSystem.Persistance.csproj|c:\\users\\zehra\\projects\\repos\\hbsystemproject\\hbsystem\\infrastructure\\hbsystem.persistance\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E44931CB-FB61-468F-B8DA-08967A4F95E5}|Infrastructure\\HbSystem.Persistance\\HbSystem.Persistance.csproj|solutionrelative:infrastructure\\hbsystem.persistance\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150E9570-48F7-4135-9654-84AD0A2F3CD3}|Core\\HbSystem.Application\\HbSystem.Application.csproj|c:\\users\\zehra\\projects\\repos\\hbsystemproject\\hbsystem\\core\\hbsystem.application\\features\\mediator\\results\\patienthistoryresults\\getpatienthistoryqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{150E9570-48F7-4135-9654-84AD0A2F3CD3}|Core\\HbSystem.Application\\HbSystem.Application.csproj|solutionrelative:core\\hbsystem.application\\features\\mediator\\results\\patienthistoryresults\\getpatienthistoryqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150E9570-48F7-4135-9654-84AD0A2F3CD3}|Core\\HbSystem.Application\\HbSystem.Application.csproj|c:\\users\\zehra\\projects\\repos\\hbsystemproject\\hbsystem\\core\\hbsystem.application\\features\\mediator\\queries\\patienthistoryqueries\\getpatienthistoryquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{150E9570-48F7-4135-9654-84AD0A2F3CD3}|Core\\HbSystem.Application\\HbSystem.Application.csproj|solutionrelative:core\\hbsystem.application\\features\\mediator\\queries\\patienthistoryqueries\\getpatienthistoryquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150E9570-48F7-4135-9654-84AD0A2F3CD3}|Core\\HbSystem.Application\\HbSystem.Application.csproj|c:\\users\\zehra\\projects\\repos\\hbsystemproject\\hbsystem\\core\\hbsystem.application\\features\\mediator\\handler\\doctorhandlers\\getdoctorqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{150E9570-48F7-4135-9654-84AD0A2F3CD3}|Core\\HbSystem.Application\\HbSystem.Application.csproj|solutionrelative:core\\hbsystem.application\\features\\mediator\\handler\\doctorhandlers\\getdoctorqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150E9570-48F7-4135-9654-84AD0A2F3CD3}|Core\\HbSystem.Application\\HbSystem.Application.csproj|c:\\users\\zehra\\projects\\repos\\hbsystemproject\\hbsystem\\core\\hbsystem.application\\features\\mediator\\handler\\doctorhandlers\\getdoctordepartmentbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{150E9570-48F7-4135-9654-84AD0A2F3CD3}|Core\\HbSystem.Application\\HbSystem.Application.csproj|solutionrelative:core\\hbsystem.application\\features\\mediator\\handler\\doctorhandlers\\getdoctordepartmentbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150E9570-48F7-4135-9654-84AD0A2F3CD3}|Core\\HbSystem.Application\\HbSystem.Application.csproj|c:\\users\\zehra\\projects\\repos\\hbsystemproject\\hbsystem\\core\\hbsystem.application\\features\\mediator\\handler\\patientdiagnosishandlers\\createpatientdiagnosescommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{150E9570-48F7-4135-9654-84AD0A2F3CD3}|Core\\HbSystem.Application\\HbSystem.Application.csproj|solutionrelative:core\\hbsystem.application\\features\\mediator\\handler\\patientdiagnosishandlers\\createpatientdiagnosescommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150E9570-48F7-4135-9654-84AD0A2F3CD3}|Core\\HbSystem.Application\\HbSystem.Application.csproj|c:\\users\\zehra\\projects\\repos\\hbsystemproject\\hbsystem\\core\\hbsystem.application\\features\\mediator\\results\\referralresults\\getreferralqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{150E9570-48F7-4135-9654-84AD0A2F3CD3}|Core\\HbSystem.Application\\HbSystem.Application.csproj|solutionrelative:core\\hbsystem.application\\features\\mediator\\results\\referralresults\\getreferralqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150E9570-48F7-4135-9654-84AD0A2F3CD3}|Core\\HbSystem.Application\\HbSystem.Application.csproj|c:\\users\\zehra\\projects\\repos\\hbsystemproject\\hbsystem\\core\\hbsystem.application\\features\\mediator\\results\\referralresults\\getreferralbytcnumberqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{150E9570-48F7-4135-9654-84AD0A2F3CD3}|Core\\HbSystem.Application\\HbSystem.Application.csproj|solutionrelative:core\\hbsystem.application\\features\\mediator\\results\\referralresults\\getreferralbytcnumberqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150E9570-48F7-4135-9654-84AD0A2F3CD3}|Core\\HbSystem.Application\\HbSystem.Application.csproj|c:\\users\\zehra\\projects\\repos\\hbsystemproject\\hbsystem\\core\\hbsystem.application\\features\\mediator\\results\\referralresults\\getreferralbyidqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{150E9570-48F7-4135-9654-84AD0A2F3CD3}|Core\\HbSystem.Application\\HbSystem.Application.csproj|solutionrelative:core\\hbsystem.application\\features\\mediator\\results\\referralresults\\getreferralbyidqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150E9570-48F7-4135-9654-84AD0A2F3CD3}|Core\\HbSystem.Application\\HbSystem.Application.csproj|c:\\users\\zehra\\projects\\repos\\hbsystemproject\\hbsystem\\core\\hbsystem.application\\features\\mediator\\results\\patientdiagnosisresults\\getpatientdiagnosisqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{150E9570-48F7-4135-9654-84AD0A2F3CD3}|Core\\HbSystem.Application\\HbSystem.Application.csproj|solutionrelative:core\\hbsystem.application\\features\\mediator\\results\\patientdiagnosisresults\\getpatientdiagnosisqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150E9570-48F7-4135-9654-84AD0A2F3CD3}|Core\\HbSystem.Application\\HbSystem.Application.csproj|c:\\users\\zehra\\projects\\repos\\hbsystemproject\\hbsystem\\core\\hbsystem.application\\features\\mediator\\results\\patientdiagnosisresults\\getpatientdiagnosisbyidqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{150E9570-48F7-4135-9654-84AD0A2F3CD3}|Core\\HbSystem.Application\\HbSystem.Application.csproj|solutionrelative:core\\hbsystem.application\\features\\mediator\\results\\patientdiagnosisresults\\getpatientdiagnosisbyidqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150E9570-48F7-4135-9654-84AD0A2F3CD3}|Core\\HbSystem.Application\\HbSystem.Application.csproj|c:\\users\\zehra\\projects\\repos\\hbsystemproject\\hbsystem\\core\\hbsystem.application\\features\\mediator\\handler\\patientdiagnosishandlers\\updatepatientdiagnosescommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{150E9570-48F7-4135-9654-84AD0A2F3CD3}|Core\\HbSystem.Application\\HbSystem.Application.csproj|solutionrelative:core\\hbsystem.application\\features\\mediator\\handler\\patientdiagnosishandlers\\updatepatientdiagnosescommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150E9570-48F7-4135-9654-84AD0A2F3CD3}|Core\\HbSystem.Application\\HbSystem.Application.csproj|c:\\users\\zehra\\projects\\repos\\hbsystemproject\\hbsystem\\core\\hbsystem.application\\features\\mediator\\handler\\patientdiagnosishandlers\\removepatientdiagnosescommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{150E9570-48F7-4135-9654-84AD0A2F3CD3}|Core\\HbSystem.Application\\HbSystem.Application.csproj|solutionrelative:core\\hbsystem.application\\features\\mediator\\handler\\patientdiagnosishandlers\\removepatientdiagnosescommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150E9570-48F7-4135-9654-84AD0A2F3CD3}|Core\\HbSystem.Application\\HbSystem.Application.csproj|c:\\users\\zehra\\projects\\repos\\hbsystemproject\\hbsystem\\core\\hbsystem.application\\features\\mediator\\handler\\patientdiagnosishandlers\\getpatientdiagnosesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{150E9570-48F7-4135-9654-84AD0A2F3CD3}|Core\\HbSystem.Application\\HbSystem.Application.csproj|solutionrelative:core\\hbsystem.application\\features\\mediator\\handler\\patientdiagnosishandlers\\getpatientdiagnosesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150E9570-48F7-4135-9654-84AD0A2F3CD3}|Core\\HbSystem.Application\\HbSystem.Application.csproj|c:\\users\\zehra\\projects\\repos\\hbsystemproject\\hbsystem\\core\\hbsystem.application\\features\\mediator\\handler\\patientdiagnosishandlers\\getpatientdiagnosesbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{150E9570-48F7-4135-9654-84AD0A2F3CD3}|Core\\HbSystem.Application\\HbSystem.Application.csproj|solutionrelative:core\\hbsystem.application\\features\\mediator\\handler\\patientdiagnosishandlers\\getpatientdiagnosesbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150E9570-48F7-4135-9654-84AD0A2F3CD3}|Core\\HbSystem.Application\\HbSystem.Application.csproj|c:\\users\\zehra\\projects\\repos\\hbsystemproject\\hbsystem\\core\\hbsystem.application\\features\\mediator\\commands\\patientdiagnosiscommands\\updatepatientdiagnosiscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{150E9570-48F7-4135-9654-84AD0A2F3CD3}|Core\\HbSystem.Application\\HbSystem.Application.csproj|solutionrelative:core\\hbsystem.application\\features\\mediator\\commands\\patientdiagnosiscommands\\updatepatientdiagnosiscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150E9570-48F7-4135-9654-84AD0A2F3CD3}|Core\\HbSystem.Application\\HbSystem.Application.csproj|c:\\users\\zehra\\projects\\repos\\hbsystemproject\\hbsystem\\core\\hbsystem.application\\features\\mediator\\commands\\patientdiagnosiscommands\\removepatientdiagnosiscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{150E9570-48F7-4135-9654-84AD0A2F3CD3}|Core\\HbSystem.Application\\HbSystem.Application.csproj|solutionrelative:core\\hbsystem.application\\features\\mediator\\commands\\patientdiagnosiscommands\\removepatientdiagnosiscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA9B271-0E99-4531-BBE2-A3AAF9FF12D4}|HbSystem.Domain\\HbSystem.Domain.csproj|c:\\users\\zehra\\projects\\repos\\hbsystemproject\\hbsystem\\hbsystem.domain\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA9B271-0E99-4531-BBE2-A3AAF9FF12D4}|HbSystem.Domain\\HbSystem.Domain.csproj|solutionrelative:hbsystem.domain\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E5B71DF-75FF-47C1-BFE9-D660044A0633}|Presentation\\HbSystem.WebApi\\HbSystem.WebApi.csproj|c:\\users\\zehra\\projects\\repos\\hbsystemproject\\hbsystem\\presentation\\hbsystem.webapi\\controllers\\patienthistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E5B71DF-75FF-47C1-BFE9-D660044A0633}|Presentation\\HbSystem.WebApi\\HbSystem.WebApi.csproj|solutionrelative:presentation\\hbsystem.webapi\\controllers\\patienthistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E5B71DF-75FF-47C1-BFE9-D660044A0633}|Presentation\\HbSystem.WebApi\\HbSystem.WebApi.csproj|c:\\users\\zehra\\projects\\repos\\hbsystemproject\\hbsystem\\presentation\\hbsystem.webapi\\controllers\\referralcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E5B71DF-75FF-47C1-BFE9-D660044A0633}|Presentation\\HbSystem.WebApi\\HbSystem.WebApi.csproj|solutionrelative:presentation\\hbsystem.webapi\\controllers\\referralcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E5B71DF-75FF-47C1-BFE9-D660044A0633}|Presentation\\HbSystem.WebApi\\HbSystem.WebApi.csproj|c:\\users\\zehra\\projects\\repos\\hbsystemproject\\hbsystem\\presentation\\hbsystem.webapi\\controllers\\diagnosiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E5B71DF-75FF-47C1-BFE9-D660044A0633}|Presentation\\HbSystem.WebApi\\HbSystem.WebApi.csproj|solutionrelative:presentation\\hbsystem.webapi\\controllers\\diagnosiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E5B71DF-75FF-47C1-BFE9-D660044A0633}|Presentation\\HbSystem.WebApi\\HbSystem.WebApi.csproj|c:\\users\\zehra\\projects\\repos\\hbsystemproject\\hbsystem\\presentation\\hbsystem.webapi\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E5B71DF-75FF-47C1-BFE9-D660044A0633}|Presentation\\HbSystem.WebApi\\HbSystem.WebApi.csproj|solutionrelative:presentation\\hbsystem.webapi\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\Presentation\\HbSystem.WebApi\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "Presentation\\HbSystem.WebApi\\Controllers\\PatientsController.cs",
+              "ToolTip": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\Presentation\\HbSystem.WebApi\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "Presentation\\HbSystem.WebApi\\Controllers\\PatientsController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:16:34.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetPatientByIdQueryResult.cs",
+              "DocumentMoniker": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\Core\\HbSystem.Application\\Features\\Mediator\\Results\\PatientResults\\GetPatientByIdQueryResult.cs",
+              "RelativeDocumentMoniker": "Core\\HbSystem.Application\\Features\\Mediator\\Results\\PatientResults\\GetPatientByIdQueryResult.cs",
+              "ToolTip": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\Core\\HbSystem.Application\\Features\\Mediator\\Results\\PatientResults\\GetPatientByIdQueryResult.cs",
+              "RelativeToolTip": "Core\\HbSystem.Application\\Features\\Mediator\\Results\\PatientResults\\GetPatientByIdQueryResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:16:13.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetPatientByTcQueryResult.cs",
+              "DocumentMoniker": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\Core\\HbSystem.Application\\Features\\Mediator\\Results\\PatientResults\\GetPatientByTcQueryResult.cs",
+              "RelativeDocumentMoniker": "Core\\HbSystem.Application\\Features\\Mediator\\Results\\PatientResults\\GetPatientByTcQueryResult.cs",
+              "ToolTip": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\Core\\HbSystem.Application\\Features\\Mediator\\Results\\PatientResults\\GetPatientByTcQueryResult.cs",
+              "RelativeToolTip": "Core\\HbSystem.Application\\Features\\Mediator\\Results\\PatientResults\\GetPatientByTcQueryResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:16:11.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\HbSystem.Domain\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "HbSystem.Domain\\Entities\\Department.cs",
+              "ToolTip": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\HbSystem.Domain\\Entities\\Department.cs",
+              "RelativeToolTip": "HbSystem.Domain\\Entities\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:14:43.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\Presentation\\HbSystem.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\HbSystem.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\Presentation\\HbSystem.WebApi\\Program.cs",
+              "RelativeToolTip": "Presentation\\HbSystem.WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:53:09.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetPatientHistoryQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\Core\\HbSystem.Application\\Features\\Mediator\\Handler\\PatientHistoryHandlers\\GetPatientHistoryQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\HbSystem.Application\\Features\\Mediator\\Handler\\PatientHistoryHandlers\\GetPatientHistoryQueryHandler.cs",
+              "ToolTip": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\Core\\HbSystem.Application\\Features\\Mediator\\Handler\\PatientHistoryHandlers\\GetPatientHistoryQueryHandler.cs",
+              "RelativeToolTip": "Core\\HbSystem.Application\\Features\\Mediator\\Handler\\PatientHistoryHandlers\\GetPatientHistoryQueryHandler.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAowCkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T00:18:08.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Diagnosis.cs",
+              "DocumentMoniker": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\HbSystem.Domain\\Entities\\Diagnosis.cs",
+              "RelativeDocumentMoniker": "HbSystem.Domain\\Entities\\Diagnosis.cs",
+              "ToolTip": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\HbSystem.Domain\\Entities\\Diagnosis.cs",
+              "RelativeToolTip": "HbSystem.Domain\\Entities\\Diagnosis.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:15:02.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\HbSystem.Domain\\Entities\\Patient.cs",
+              "RelativeDocumentMoniker": "HbSystem.Domain\\Entities\\Patient.cs",
+              "ToolTip": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\HbSystem.Domain\\Entities\\Patient.cs",
+              "RelativeToolTip": "HbSystem.Domain\\Entities\\Patient.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:14:51.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\Infrastructure\\HbSystem.Persistance\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\HbSystem.Persistance\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\Infrastructure\\HbSystem.Persistance\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Infrastructure\\HbSystem.Persistance\\Repositories\\Repository.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwDQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T11:41:29.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Referral.cs",
+              "DocumentMoniker": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\HbSystem.Domain\\Entities\\Referral.cs",
+              "RelativeDocumentMoniker": "HbSystem.Domain\\Entities\\Referral.cs",
+              "ToolTip": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\HbSystem.Domain\\Entities\\Referral.cs",
+              "RelativeToolTip": "HbSystem.Domain\\Entities\\Referral.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:23:13.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PatientDiagnosis.cs",
+              "DocumentMoniker": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\HbSystem.Domain\\Entities\\PatientDiagnosis.cs",
+              "RelativeDocumentMoniker": "HbSystem.Domain\\Entities\\PatientDiagnosis.cs",
+              "ToolTip": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\HbSystem.Domain\\Entities\\PatientDiagnosis.cs",
+              "RelativeToolTip": "HbSystem.Domain\\Entities\\PatientDiagnosis.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T23:03:17.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetPatientDiagnosisByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\Core\\HbSystem.Application\\Features\\Mediator\\Queries\\PatientDiagnosisQueries\\GetPatientDiagnosisByIdQuery.cs",
+              "RelativeDocumentMoniker": "Core\\HbSystem.Application\\Features\\Mediator\\Queries\\PatientDiagnosisQueries\\GetPatientDiagnosisByIdQuery.cs",
+              "ToolTip": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\Core\\HbSystem.Application\\Features\\Mediator\\Queries\\PatientDiagnosisQueries\\GetPatientDiagnosisByIdQuery.cs",
+              "RelativeToolTip": "Core\\HbSystem.Application\\Features\\Mediator\\Queries\\PatientDiagnosisQueries\\GetPatientDiagnosisByIdQuery.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T00:27:12.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetPatientDiagnosisQuery.cs",
+              "DocumentMoniker": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\Core\\HbSystem.Application\\Features\\Mediator\\Queries\\PatientDiagnosisQueries\\GetPatientDiagnosisQuery.cs",
+              "RelativeDocumentMoniker": "Core\\HbSystem.Application\\Features\\Mediator\\Queries\\PatientDiagnosisQueries\\GetPatientDiagnosisQuery.cs",
+              "ToolTip": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\Core\\HbSystem.Application\\Features\\Mediator\\Queries\\PatientDiagnosisQueries\\GetPatientDiagnosisQuery.cs",
+              "RelativeToolTip": "Core\\HbSystem.Application\\Features\\Mediator\\Queries\\PatientDiagnosisQueries\\GetPatientDiagnosisQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T00:27:14.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetPatientHistoryQueryResult.cs",
+              "DocumentMoniker": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\Core\\HbSystem.Application\\Features\\Mediator\\Results\\PatientHistoryResults\\GetPatientHistoryQueryResult.cs",
+              "RelativeDocumentMoniker": "Core\\HbSystem.Application\\Features\\Mediator\\Results\\PatientHistoryResults\\GetPatientHistoryQueryResult.cs",
+              "ToolTip": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\Core\\HbSystem.Application\\Features\\Mediator\\Results\\PatientHistoryResults\\GetPatientHistoryQueryResult.cs",
+              "RelativeToolTip": "Core\\HbSystem.Application\\Features\\Mediator\\Results\\PatientHistoryResults\\GetPatientHistoryQueryResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T10:05:37.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetPatientHistoryQuery.cs",
+              "DocumentMoniker": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\Core\\HbSystem.Application\\Features\\Mediator\\Queries\\PatientHistoryQueries\\GetPatientHistoryQuery.cs",
+              "RelativeDocumentMoniker": "Core\\HbSystem.Application\\Features\\Mediator\\Queries\\PatientHistoryQueries\\GetPatientHistoryQuery.cs",
+              "ToolTip": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\Core\\HbSystem.Application\\Features\\Mediator\\Queries\\PatientHistoryQueries\\GetPatientHistoryQuery.cs",
+              "RelativeToolTip": "Core\\HbSystem.Application\\Features\\Mediator\\Queries\\PatientHistoryQueries\\GetPatientHistoryQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T10:07:01.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetDoctorQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\Core\\HbSystem.Application\\Features\\Mediator\\Handler\\DoctorHandlers\\GetDoctorQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\HbSystem.Application\\Features\\Mediator\\Handler\\DoctorHandlers\\GetDoctorQueryHandler.cs",
+              "ToolTip": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\Core\\HbSystem.Application\\Features\\Mediator\\Handler\\DoctorHandlers\\GetDoctorQueryHandler.cs",
+              "RelativeToolTip": "Core\\HbSystem.Application\\Features\\Mediator\\Handler\\DoctorHandlers\\GetDoctorQueryHandler.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwBwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T09:55:05.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetDoctorDepartmentByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\Core\\HbSystem.Application\\Features\\Mediator\\Handler\\DoctorHandlers\\GetDoctorDepartmentByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\HbSystem.Application\\Features\\Mediator\\Handler\\DoctorHandlers\\GetDoctorDepartmentByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\Core\\HbSystem.Application\\Features\\Mediator\\Handler\\DoctorHandlers\\GetDoctorDepartmentByIdQueryHandler.cs",
+              "RelativeToolTip": "Core\\HbSystem.Application\\Features\\Mediator\\Handler\\DoctorHandlers\\GetDoctorDepartmentByIdQueryHandler.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T09:54:45.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreatePatientDiagnosesCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\Core\\HbSystem.Application\\Features\\Mediator\\Handler\\PatientDiagnosisHandlers\\CreatePatientDiagnosesCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\HbSystem.Application\\Features\\Mediator\\Handler\\PatientDiagnosisHandlers\\CreatePatientDiagnosesCommandHandler.cs",
+              "ToolTip": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\Core\\HbSystem.Application\\Features\\Mediator\\Handler\\PatientDiagnosisHandlers\\CreatePatientDiagnosesCommandHandler.cs",
+              "RelativeToolTip": "Core\\HbSystem.Application\\Features\\Mediator\\Handler\\PatientDiagnosisHandlers\\CreatePatientDiagnosesCommandHandler.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T08:02:52.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetReferralQueryResult.cs",
+              "DocumentMoniker": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\Core\\HbSystem.Application\\Features\\Mediator\\Results\\ReferralResults\\GetReferralQueryResult.cs",
+              "RelativeDocumentMoniker": "Core\\HbSystem.Application\\Features\\Mediator\\Results\\ReferralResults\\GetReferralQueryResult.cs",
+              "ToolTip": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\Core\\HbSystem.Application\\Features\\Mediator\\Results\\ReferralResults\\GetReferralQueryResult.cs",
+              "RelativeToolTip": "Core\\HbSystem.Application\\Features\\Mediator\\Results\\ReferralResults\\GetReferralQueryResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:23:32.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GetReferralByTcNumberQueryResult.cs",
+              "DocumentMoniker": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\Core\\HbSystem.Application\\Features\\Mediator\\Results\\ReferralResults\\GetReferralByTcNumberQueryResult.cs",
+              "RelativeDocumentMoniker": "Core\\HbSystem.Application\\Features\\Mediator\\Results\\ReferralResults\\GetReferralByTcNumberQueryResult.cs",
+              "ToolTip": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\Core\\HbSystem.Application\\Features\\Mediator\\Results\\ReferralResults\\GetReferralByTcNumberQueryResult.cs",
+              "RelativeToolTip": "Core\\HbSystem.Application\\Features\\Mediator\\Results\\ReferralResults\\GetReferralByTcNumberQueryResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:23:31.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GetReferralByIdQueryResult.cs",
+              "DocumentMoniker": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\Core\\HbSystem.Application\\Features\\Mediator\\Results\\ReferralResults\\GetReferralByIdQueryResult.cs",
+              "RelativeDocumentMoniker": "Core\\HbSystem.Application\\Features\\Mediator\\Results\\ReferralResults\\GetReferralByIdQueryResult.cs",
+              "ToolTip": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\Core\\HbSystem.Application\\Features\\Mediator\\Results\\ReferralResults\\GetReferralByIdQueryResult.cs",
+              "RelativeToolTip": "Core\\HbSystem.Application\\Features\\Mediator\\Results\\ReferralResults\\GetReferralByIdQueryResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:23:28.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GetPatientDiagnosisQueryResult.cs",
+              "DocumentMoniker": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\Core\\HbSystem.Application\\Features\\Mediator\\Results\\PatientDiagnosisResults\\GetPatientDiagnosisQueryResult.cs",
+              "RelativeDocumentMoniker": "Core\\HbSystem.Application\\Features\\Mediator\\Results\\PatientDiagnosisResults\\GetPatientDiagnosisQueryResult.cs",
+              "ToolTip": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\Core\\HbSystem.Application\\Features\\Mediator\\Results\\PatientDiagnosisResults\\GetPatientDiagnosisQueryResult.cs",
+              "RelativeToolTip": "Core\\HbSystem.Application\\Features\\Mediator\\Results\\PatientDiagnosisResults\\GetPatientDiagnosisQueryResult.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T00:27:25.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GetPatientDiagnosisByIdQueryResult.cs",
+              "DocumentMoniker": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\Core\\HbSystem.Application\\Features\\Mediator\\Results\\PatientDiagnosisResults\\GetPatientDiagnosisByIdQueryResult.cs",
+              "RelativeDocumentMoniker": "Core\\HbSystem.Application\\Features\\Mediator\\Results\\PatientDiagnosisResults\\GetPatientDiagnosisByIdQueryResult.cs",
+              "ToolTip": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\Core\\HbSystem.Application\\Features\\Mediator\\Results\\PatientDiagnosisResults\\GetPatientDiagnosisByIdQueryResult.cs",
+              "RelativeToolTip": "Core\\HbSystem.Application\\Features\\Mediator\\Results\\PatientDiagnosisResults\\GetPatientDiagnosisByIdQueryResult.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T00:22:49.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UpdatePatientDiagnosesCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\Core\\HbSystem.Application\\Features\\Mediator\\Handler\\PatientDiagnosisHandlers\\UpdatePatientDiagnosesCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\HbSystem.Application\\Features\\Mediator\\Handler\\PatientDiagnosisHandlers\\UpdatePatientDiagnosesCommandHandler.cs",
+              "ToolTip": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\Core\\HbSystem.Application\\Features\\Mediator\\Handler\\PatientDiagnosisHandlers\\UpdatePatientDiagnosesCommandHandler.cs",
+              "RelativeToolTip": "Core\\HbSystem.Application\\Features\\Mediator\\Handler\\PatientDiagnosisHandlers\\UpdatePatientDiagnosesCommandHandler.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T00:27:00.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RemovePatientDiagnosesCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\Core\\HbSystem.Application\\Features\\Mediator\\Handler\\PatientDiagnosisHandlers\\RemovePatientDiagnosesCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\HbSystem.Application\\Features\\Mediator\\Handler\\PatientDiagnosisHandlers\\RemovePatientDiagnosesCommandHandler.cs",
+              "ToolTip": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\Core\\HbSystem.Application\\Features\\Mediator\\Handler\\PatientDiagnosisHandlers\\RemovePatientDiagnosesCommandHandler.cs",
+              "RelativeToolTip": "Core\\HbSystem.Application\\Features\\Mediator\\Handler\\PatientDiagnosisHandlers\\RemovePatientDiagnosesCommandHandler.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T00:26:57.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GetPatientDiagnosesQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\Core\\HbSystem.Application\\Features\\Mediator\\Handler\\PatientDiagnosisHandlers\\GetPatientDiagnosesQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\HbSystem.Application\\Features\\Mediator\\Handler\\PatientDiagnosisHandlers\\GetPatientDiagnosesQueryHandler.cs",
+              "ToolTip": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\Core\\HbSystem.Application\\Features\\Mediator\\Handler\\PatientDiagnosisHandlers\\GetPatientDiagnosesQueryHandler.cs",
+              "RelativeToolTip": "Core\\HbSystem.Application\\Features\\Mediator\\Handler\\PatientDiagnosisHandlers\\GetPatientDiagnosesQueryHandler.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T00:26:49.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GetPatientDiagnosesByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\Core\\HbSystem.Application\\Features\\Mediator\\Handler\\PatientDiagnosisHandlers\\GetPatientDiagnosesByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\HbSystem.Application\\Features\\Mediator\\Handler\\PatientDiagnosisHandlers\\GetPatientDiagnosesByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\Core\\HbSystem.Application\\Features\\Mediator\\Handler\\PatientDiagnosisHandlers\\GetPatientDiagnosesByIdQueryHandler.cs",
+              "RelativeToolTip": "Core\\HbSystem.Application\\Features\\Mediator\\Handler\\PatientDiagnosisHandlers\\GetPatientDiagnosesByIdQueryHandler.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T00:26:40.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UpdatePatientDiagnosisCommand.cs",
+              "DocumentMoniker": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\Core\\HbSystem.Application\\Features\\Mediator\\Commands\\PatientDiagnosisCommands\\UpdatePatientDiagnosisCommand.cs",
+              "RelativeDocumentMoniker": "Core\\HbSystem.Application\\Features\\Mediator\\Commands\\PatientDiagnosisCommands\\UpdatePatientDiagnosisCommand.cs",
+              "ToolTip": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\Core\\HbSystem.Application\\Features\\Mediator\\Commands\\PatientDiagnosisCommands\\UpdatePatientDiagnosisCommand.cs",
+              "RelativeToolTip": "Core\\HbSystem.Application\\Features\\Mediator\\Commands\\PatientDiagnosisCommands\\UpdatePatientDiagnosisCommand.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T00:26:22.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RemovePatientDiagnosisCommand.cs",
+              "DocumentMoniker": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\Core\\HbSystem.Application\\Features\\Mediator\\Commands\\PatientDiagnosisCommands\\RemovePatientDiagnosisCommand.cs",
+              "RelativeDocumentMoniker": "Core\\HbSystem.Application\\Features\\Mediator\\Commands\\PatientDiagnosisCommands\\RemovePatientDiagnosisCommand.cs",
+              "ToolTip": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\Core\\HbSystem.Application\\Features\\Mediator\\Commands\\PatientDiagnosisCommands\\RemovePatientDiagnosisCommand.cs",
+              "RelativeToolTip": "Core\\HbSystem.Application\\Features\\Mediator\\Commands\\PatientDiagnosisCommands\\RemovePatientDiagnosisCommand.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T00:26:21.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\HbSystem.Domain\\Entities\\Doctor.cs",
+              "RelativeDocumentMoniker": "HbSystem.Domain\\Entities\\Doctor.cs",
+              "ToolTip": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\HbSystem.Domain\\Entities\\Doctor.cs",
+              "RelativeToolTip": "HbSystem.Domain\\Entities\\Doctor.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wBkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T00:02:43.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PatientHistoryController.cs",
+              "DocumentMoniker": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\Presentation\\HbSystem.WebApi\\Controllers\\PatientHistoryController.cs",
+              "RelativeDocumentMoniker": "Presentation\\HbSystem.WebApi\\Controllers\\PatientHistoryController.cs",
+              "ToolTip": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\Presentation\\HbSystem.WebApi\\Controllers\\PatientHistoryController.cs",
+              "RelativeToolTip": "Presentation\\HbSystem.WebApi\\Controllers\\PatientHistoryController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T23:35:18.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ReferralController.cs",
+              "DocumentMoniker": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\Presentation\\HbSystem.WebApi\\Controllers\\ReferralController.cs",
+              "RelativeDocumentMoniker": "Presentation\\HbSystem.WebApi\\Controllers\\ReferralController.cs",
+              "ToolTip": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\Presentation\\HbSystem.WebApi\\Controllers\\ReferralController.cs",
+              "RelativeToolTip": "Presentation\\HbSystem.WebApi\\Controllers\\ReferralController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwC0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T22:23:50.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DiagnosisController.cs",
+              "DocumentMoniker": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\Presentation\\HbSystem.WebApi\\Controllers\\DiagnosisController.cs",
+              "RelativeDocumentMoniker": "Presentation\\HbSystem.WebApi\\Controllers\\DiagnosisController.cs",
+              "ToolTip": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\Presentation\\HbSystem.WebApi\\Controllers\\DiagnosisController.cs",
+              "RelativeToolTip": "Presentation\\HbSystem.WebApi\\Controllers\\DiagnosisController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAwDwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T19:20:13.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\Presentation\\HbSystem.WebApi\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "Presentation\\HbSystem.WebApi\\Controllers\\DoctorsController.cs",
+              "ToolTip": "C:\\Users\\zehra\\projects\\repos\\HbSystemProject\\HbSystem\\Presentation\\HbSystem.WebApi\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "Presentation\\HbSystem.WebApi\\Controllers\\DoctorsController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAowDgAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:25:15.375Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

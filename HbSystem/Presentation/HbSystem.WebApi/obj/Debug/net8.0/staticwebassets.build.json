@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ApcCXvLNN7aVZhu3gXc2lD1h8hTm4Rjk+AGYYshypwM=",
+  "Source": "HbSystem.WebApi",
+  "BasePath": "_content/HbSystem.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
